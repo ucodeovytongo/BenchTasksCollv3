@@ -1,1 +1,1 @@
-Groundtruth data for media-organitor
+Groundtruth data for media-organizer
